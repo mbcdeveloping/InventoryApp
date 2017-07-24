@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#049c15</color>
+    <color name="colorPrimaryDark">#026105</color>
+    <color name="colorAccent">#ffc800</color>
+    <color name="line_color">#362f18</color>
+    <color name="item_background">#e2c282</color>
+    <color name="text_black">#FF40403F</color>
+    <color name="stock_background">#e2b250</color>
+    <color name="back">#FFE6CC98</color>
+    <color name="stock_text_color">#FF6C1414</color>
+    <color name="green_money">#15c705</color>
+</resources>
